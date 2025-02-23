@@ -2,7 +2,7 @@
 ⭐  Little about me :
 - 👋 Hi, I’m [@KeshavaYada](https://github.com/KeshavaYada), data analysis enthusiast currently pursuing a master's in Business Analytics at the University of North Texas.
 - 👀 I’m interested in leveraging my skills in data analysis, Data Visualization, SQL, Python, and machine learning to solve complex problems and derive actionable insights from data.
-- 🌱 I’m currently learning advanced machine learning techniques, deep learning, and cloud computing with AWS and Azure to enhance my data processing and analysis capabilities.
+- 🌱 I’m expertise in  advanced machine learning techniques, deep learning, and cloud computing with AWS and Azure to enhance data processing and analysis capabilities.
 - 💞️ I’m looking to collaborate on open-source projects related to data science, machine learning, and business analytics.
       I’m particularly excited about projects that involve predictive analytics, automation, and real-time data processing.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/keshavayada)  or email me at [Keshavayada@gmail.com](mailto:Keshavayada@gmail.com).I'm open to exploring opportunities for data projects and collaborations!
